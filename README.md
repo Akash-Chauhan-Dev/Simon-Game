@@ -1,7 +1,7 @@
 # Simon-Game
 A browser-based Simon game built with HTML, CSS, and JavaScript. Follow the pattern, level up, and test your memory!
-🎮 Features
 
+🎮 Features
 🎨 Clean & Interactive UI — Smooth, responsive design for a seamless experience
 ✨ Animations — Satisfying visual feedback on every button press
 🔊 Sound & Music System — Unique sounds for each color make the game more immersive and enjoyable
