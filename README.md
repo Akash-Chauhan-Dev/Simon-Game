@@ -29,7 +29,7 @@ A browser-based Simon game built with HTML, CSS, and JavaScript. Follow the patt
     cd simon-game
 
 Open the game
-Simply open index.html in your browser — no installation or dependencies needed!
+Simply open index.html in your browser — no installation or dependencies needed!    
 Or, if you have VS Code, use the Live Server extension for the best experience:
 
 Right-click index.html → Open with Live Server
@@ -38,8 +38,8 @@ Right-click index.html → Open with Live Server
 Start Playing! 🎮
 Press any key or click the screen to begin. Follow the flashing sequence and repeat it — good luck! 🏆
 
-📂 Project Structure
-snake-game-python/ ├── SnakeGame └── main.py └── logo1.jpeg └── logo1.jpeg └── backimg1 └── backimg2 └── back.mp3 └── game_over.mp3 └── highscore.txt ├── requirements.txt ├── README.md ├── assets/ │ └── Welcome_SnakeGame.png └── PlayGround_SnakeGame.png └── GameOver_SnakeGame.png
+📂 Project Structure    
+simon-game/ ├── SnakeGame └── main.py └── logo1.jpeg └── logo1.jpeg └── backimg1 └── backimg2 └── back.mp3 └── game_over.mp3 └── highscore.txt ├── requirements.txt ├── README.md ├── assets/ │ └── Welcome_SnakeGame.png └── PlayGround_SnakeGame.png └── GameOver_SnakeGame.png
 
 🧠 What I Learned
 Game loop logic
